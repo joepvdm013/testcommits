@@ -1,0 +1,4 @@
+internet
+
+ssid	fake1234
+ww	fake1234
