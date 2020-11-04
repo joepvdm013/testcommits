@@ -1,4 +1,4 @@
 internet
 
-ssid	fake1234
-ww	fake1234
+ssid	ssid
+ww	ww
